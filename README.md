@@ -4,7 +4,7 @@ The results of the laboratory experiment described in the paper named "Nanosecon
 Data files are in **data** folder.
 
 Pictures **PicA.png**, **PicB.png**, **PicC.png**, **PicD.png** are the photos of the discharge events accompanied by microwave bursts. Exposure was of 70 mks, a camera was turned on 45 degrees.
-* PicA -- collision of streamer zones.
+* PicA -- streamers.
 * PicB -- start of the positive leader. 
 * PicC -- a spark discharge in the form of a collision of the negative (top) and positive (bottom) leaders.
 * PicD -- a spark at the return stroke stage.
